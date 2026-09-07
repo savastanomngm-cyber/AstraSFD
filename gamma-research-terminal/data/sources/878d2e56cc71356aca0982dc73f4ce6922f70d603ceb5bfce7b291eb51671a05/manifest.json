@@ -1,0 +1,21 @@
+{
+  "label": "Tutorial \u00b7 ESU6 \u00b7 options",
+  "synthetic": true,
+  "generator": "seeded-v1",
+  "complete_quotes": false,
+  "permission_attested": true,
+  "raw_sha256": "eb7e303342e7afd3317a52d3ac76f1e9af61c4e04e943480cb495bf6b70c7efe",
+  "audit": {
+    "records": 1296,
+    "contracts": "ESU6",
+    "start": "2026-08-03 13:30:00+00:00",
+    "end": "2026-08-10 14:25:00+00:00",
+    "out_of_order_input": false,
+    "identical_records_retained": 0,
+    "gaps_over_60s_review_required": 71,
+    "availability": "synthetic",
+    "unknown_oi_availability": 0,
+    "unsupported_american": 0
+  },
+  "imported_at": "2026-09-07T06:01:58.304500+00:00"
+}

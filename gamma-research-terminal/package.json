@@ -1,0 +1,11 @@
+{
+  "name": "gamma-research-terminal",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "python3 launch.py --server.address 0.0.0.0 --server.port 3000 --server.headless true",
+    "build": "python3 -m compileall -q gamma_lab terminal.py launch.py",
+    "start": "python3 launch.py",
+    "test": ".venv/bin/python -m pytest tests -q"
+  }
+}
